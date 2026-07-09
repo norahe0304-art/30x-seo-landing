@@ -658,7 +658,6 @@ Configure your API key in the MCP settings.` : ''}
             <a href="#downloads">Install</a>
             <a href="#faq">FAQ</a>
             <a href="https://github.com/norahe0304-art/30x-seo" target="_blank" rel="noopener">GitHub</a>
-            <a href="https://github.com/norahe0304-art/30x-seo-cn" target="_blank" rel="noopener">中文版</a>
           </div>
         </div>
       </footer>
